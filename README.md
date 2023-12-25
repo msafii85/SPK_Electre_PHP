@@ -1,4 +1,4 @@
-# Electre_SPK
+# SPK Electre
 
 Alfarizqi Abiyyu
 TI3E / 04
